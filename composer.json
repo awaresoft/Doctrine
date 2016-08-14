@@ -1,0 +1,10 @@
+{
+    "name": "awaresoft/Doctrine",
+    "type": "symfony-bundle",
+    "description": "Symfony Awaresoft Doctrine library",
+    "require": {
+        "php": ">= 7"
+    },"autoload": {
+    "psr-4": { "Awaresoft\\Doctrine\\": "" }
+}
+}
