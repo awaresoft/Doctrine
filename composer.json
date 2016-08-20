@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/Doctrine",
+    "name": "awaresoft/doctrine",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft Doctrine library",
     "require": {
